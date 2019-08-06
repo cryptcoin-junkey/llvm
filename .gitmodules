@@ -3,4 +3,5 @@
 	url = https://github.com/eosio/clang.git
 [submodule "tools/lld"]
 	path = tools/lld
-	url = https://github.com/eosio/lld.git
+	url = https://github.com/cryptcoin-junkey/lld.git
+	branch = pr-crash-bug
